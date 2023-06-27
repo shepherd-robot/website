@@ -14,3 +14,12 @@
   .team-img {
     width: 60%;
   }
+
+  .centered-list {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  .centered-list > li {
+    margin-bottom: 25px;
+  }
